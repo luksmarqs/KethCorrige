@@ -12,6 +12,11 @@ module.exports = {
       'imgconfete': "url('src/assets/confeteDourado.png')"
     },
     extend: {
+      rotate: {
+        '10': '10deg',
+        '5': '5deg',
+        '7': '7deg',
+      },
       colors: {
         'darkBlack': '#000000',  
         'lightBlack': '#1e1e1e',
